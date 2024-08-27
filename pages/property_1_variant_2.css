@@ -1,0 +1,18 @@
+.property-1-variant-2 .image-8 {
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 108px;
+  height: 96px;
+}
+.property-1-variant-2 .image-9 {
+  background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+  position: relative;
+  width: 128px;
+  height: 117px;
+}
+.property-1-variant-2 {
+  display: flex;
+  box-sizing: border-box;
+}

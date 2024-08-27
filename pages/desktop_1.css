@@ -1,0 +1,115 @@
+.desktop-1 .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 809px;
+}
+.desktop-1 .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 155px;
+  translate: -50% 0;
+  width: 1111px;
+  height: 555px;
+}
+.desktop-1 .image {
+  box-shadow: 0px 4px 4px 3px rgba(0, 0, 0, 0.25), inset 0px 4px 4px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 243px;
+  top: 50%;
+  translate: 0 -50%;
+  width: 411px;
+  height: 411px;
+}
+.desktop-1 .pixels-personal-websitethats-me-hehe {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Among Us Button 2', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 64px;
+  color: #FFFFFF;
+}
+.pixels-personal-websitethats-me-hehe {
+  font-family: 'Among Us Button 2', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.333;
+  color: rgba(255, 255, 255, 0.44);
+}
+.desktop-1 .container-1 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0), #000000);
+  position: relative;
+  margin-bottom: 286px;
+  display: flex;
+  padding: 356px 0 304px 460px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 .rectangle-1 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0), #000000);
+  width: 1440px;
+  height: 866px;
+}
+.desktop-1 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .rectangle-2 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 832px;
+  right: 0px;
+  height: 320px;
+}
+.desktop-1 .image-81 {
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  width: 108px;
+  height: 96px;
+}
+.desktop-1 .image-8 {
+  margin-right: 56px;
+  display: flex;
+  width: 108px;
+  height: 96px;
+  box-sizing: border-box;
+}
+.desktop-1 .image-61 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  width: 92px;
+  height: 95px;
+}
+.desktop-1 .image-6 {
+  margin-bottom: 1px;
+  display: flex;
+  width: 92px;
+  height: 95px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-2 {
+  background: url('../assets/images/untitled_1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 717px;
+  right: 164px;
+  display: flex;
+  flex-direction: row;
+  padding: 32px 70px 31px 0;
+  width: 1097px;
+  box-sizing: border-box;
+}
+.desktop-1 {
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

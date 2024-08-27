@@ -1,0 +1,9 @@
+.property-1-default .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  width: 92px;
+  height: 95px;
+}
+.property-1-default {
+  display: flex;
+  box-sizing: border-box;
+}
